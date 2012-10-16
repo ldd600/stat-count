@@ -1,0 +1,4 @@
+#stat.count:
+#                                    hessian.domain: http://localhost:8080/stat-count-runtime/hessian/remoteSimpleCountCollecter
+#                                    log.file.StatCountClient: D:/log/stat/stat-count-ruby.log
+#                                    log.level.StatCountClient: info
